@@ -16,13 +16,13 @@ end)
 print([[
 -- Credits:
  This reanimation was made by Gelatek! 
- Thanks to poncho for obfuscating using Moonsec V3
+ Thanks to poncho for small support
 ]])
 
 warn([[
 -- Credits:
  This reanimation was made by Gelatek! 
- Thanks to poncho for obfuscating using Moonsec V3
+ Thanks to poncho for small support
 ]])
 
 if getgenv().Reanimated == true then
